@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I conduct quantamental research on macroeconomic models and factors, develop macro-hedging investment strategies.    
+I conduct quantamental research on macroeconomic cycle, models and factors, develop macro-hedging investment strategies.    
 Personal Email: jiangcy01106@outlook.com
 
 Research interest
 ======
-Macro: financing, IOER, liquidity and interest rate, PPI, CPI,etc.  
+Macro: economic cycle, financing, IOER, liquidity and interest rate, PPI, CPI,etc.  
 Mesoscopic industries: real estate, coal-ironsteel industry chain, industrial enterprise inventory cycle, etc.  
 Assets: bond & rate futures, equities
 
 Methods & Tools
 ======
-Methods: regression models, time series analysis, machine learning; databases on Mongodb, Excel, SQL  
+Methods: regression models, time series analysis, machine learning    
 Tools: Python, Stata, Eviews, SQL, MongoDB
 
 How to edit your site's GitHub repository
