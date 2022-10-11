@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal websites of Chaoyi Jiang"
+title: "Chaoyi Jiang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
