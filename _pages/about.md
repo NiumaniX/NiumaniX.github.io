@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Chaoyi Jiang"
-excerpt: "About me"
+excerpt: "Quantatative Analyst at Essence"
 author_profile: true
 redirect_from: 
   - /about/
