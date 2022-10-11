@@ -1,12 +1,12 @@
 # main links links
 main:
+  #- title: "Insights"
+     #url: /Insights/
+
+  #- title: "Talks"
+     #url: /talks/    
+
   - title: "Insights"
-    url: /Insights/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
