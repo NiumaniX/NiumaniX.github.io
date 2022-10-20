@@ -3,7 +3,7 @@ title: "Multi-asset allocation strategy"
 collection: Research
 type: "strategy"
 permalink: /teaching/2015-spring-teaching-1
-#venue: "University 1, Department"#
+venue: "company"
 date: 2022-01-01
 location: "City, Country"
 ---
