@@ -6,13 +6,13 @@ main:
   #- title: "Talks"
      #url: /talks/    
 
-  - title: "Insights"
-    url: /teaching/    
+  #- title: "Insights"
+    #url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog Posts (To be continued)"
     url: /year-archive/
     
   - title: "CV"
