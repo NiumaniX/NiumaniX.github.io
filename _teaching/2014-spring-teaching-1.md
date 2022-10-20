@@ -1,6 +1,6 @@
 ---
 title: "Bond & interest rate derivatives"
-collection: Research
+collection: teaching
 type: "strategy"
 permalink: /teaching/2014-spring-teaching-1
 venue: "company"
