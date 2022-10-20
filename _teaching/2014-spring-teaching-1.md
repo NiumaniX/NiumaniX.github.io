@@ -1,5 +1,5 @@
 ---
-title: "interest rate derivatives"
+title: "Bond & interest rate derivatives"
 collection: Research
 type: "strategy"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,16 @@ date: 2021-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a macro-hedging investment strategy.
 
-Heading 1
+Bond
 ======
+Duration, Carry Roll-Down strategies, spread & leverage, credit bond spread, intermarket spread, etc.
 
-Heading 2
+Derivatives
 ======
+Use bond futures to manage interest rate risk while earning excess returns, including Basis Trading, Yield Curve Arbitrage, Arbitrage, etc.
 
 Heading 3
 ======
+To be continued
