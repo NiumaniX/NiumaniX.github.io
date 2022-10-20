@@ -1,6 +1,6 @@
 ---
 title: "Multi-asset allocation strategy"
-collection: Research
+collection: teaching
 type: "strategy"
 permalink: /teaching/2015-spring-teaching-1
 venue: "company"
